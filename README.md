@@ -13,10 +13,10 @@ Data structures &amp; Algorithms in Java 2021
 ## *Videos*
 
 
-![Course Lectures](https://youtube.com/playlist?list=PLxSWBPCr-OIfMb7v6RrrbxOZpBAais7aXg)
+[Course Lectures](https://youtube.com/playlist?list=PLxSWBPCr-OIfMb7v6RrrbxOZpBAais7aXg)
 
 
-![Algorithms](https://youtube.com/playlist?list=PL6KMWPQP_DM8t5pQmuLlarpmVc47DVXWd)
+[Algorithms](https://youtube.com/playlist?list=PL6KMWPQP_DM8t5pQmuLlarpmVc47DVXWd)
 
 
 ![](pics/spaceship.jpg)
