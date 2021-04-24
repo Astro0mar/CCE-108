@@ -3,7 +3,7 @@ Data structures &amp; Algorithms in Java 2021
 
 
 ## Goals of this Repository
-- **Share** Assignment Solutions of CCE-108 Course with others.:hearts: **Feel free to add your solutions** :balloon:
+- **Share** Sheets' Solutions of CCE-108 Course with others.:hearts: **Feel free to add your solutions** :balloon:
 - **Save** and **Organize** my solution to use them as a *DS&A* reference for me in the future If needed.:cherry_blossom:
 
 
