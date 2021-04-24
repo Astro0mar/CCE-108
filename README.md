@@ -16,7 +16,7 @@ Data structures &amp; Algorithms in Java 2021
 
 
 
-![](pics/spaceship.jpj)
+![](pics/spaceship.jpg)
 
 
 
