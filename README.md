@@ -10,7 +10,7 @@ Data structures &amp; Algorithms in Java 2021
 
 ## Useful Resourses :
 
-## *Videos*
+## *-Videos*
 
 
 :satellite: [Course Lectures](https://youtube.com/playlist?list=PLxSWBPCr-OIfMb7v6RrrbxOZpBAais7aX)
